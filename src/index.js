@@ -3,7 +3,6 @@ import ReactDOM from "react-dom";
 import TopNav from './components/Topnav'
 import Footer from './components/Footer'
 import reportWebVitals from "./reportWebVitals";
-import './components/css/index.css'
 
 ReactDOM.render(
   <React.StrictMode>
